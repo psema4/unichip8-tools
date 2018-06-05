@@ -3,6 +3,11 @@ UniCHIP8 Tools
 
 Miscellaneous tools for working with UniCHIP8 and Octo.
 
+<img 
+src="https://raw.githubusercontent.com/psema4/unichip8/master/Assets/UniCHIP8/unichip8-v1.png" 
+width="640" />
+
+## Tool List
 
 ### makeString.js <string> [prefix]
 
